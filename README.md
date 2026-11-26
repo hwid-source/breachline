@@ -21,10 +21,18 @@ Open http://localhost:3000 in a desktop browser. Open the same address in additi
 
 - `W A S D` — move
 - `Shift` — sprint
-- `R` — reload
+- `R` — reload (server-authoritative ammo)
+- `Tab` — scoreboard (hold)
 - Mouse — look
 - Left mouse — fire
-- `Esc` — release pointer / pause
+- `Esc` — release pointer / pause (click RESUME to continue)
+
+## Mechanics
+
+- Headshots (70 dmg) vs body (26 dmg), sprint spread, 30/90 ammo with reload
+- Health (+50) and ammo pickups that respawn every 20 s
+- 2 s spawn shield, safer spawn selection, kill streak announcements
+- Round winner banner, hit/hurt sounds, hurt flash
 
 ## Deployment notes
 
